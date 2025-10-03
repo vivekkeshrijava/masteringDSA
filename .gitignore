@@ -1,2 +1,4 @@
 # Ignore Maven target directory
 /target/
+# Ignore all .class files in source directories
+*.class
