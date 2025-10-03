@@ -10,3 +10,9 @@ Omega - Best Case
 theta - Average Case
 O (big O) - Worst case  
 
+O(n2)   - Loop within Loop
+O(n)    - Proportional
+O(logN) - Devide N Conquer
+O(1)    - Constant
+
+
